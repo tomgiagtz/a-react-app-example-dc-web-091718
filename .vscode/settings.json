@@ -1,0 +1,9 @@
+{
+      "merge-conflict.autoNavigateNextConflict.enabled": true,
+
+    "terminal.integrated.enableBell": true,
+    "editor.tabCompletion": "on",
+    "editor.detectIndentation": false,
+    "editor.smoothScrolling": true,
+    "editor.cursorStyle": "underline-thin"
+}
